@@ -1,0 +1,1 @@
+UPDATE site_user lastname = 'Rush' WHERE ID = 2;
